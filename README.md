@@ -5,3 +5,6 @@ Location: Nigeria, Lagos
 Hobbies: Singing, Playing football
 Goals: To have a positive impact in my community
 
+# runFlutterDoctor
+Setting up my flutter machine https://drive.google.com/file/d/1zWpB-5jm1QLtvhrQjLC9WYVsAkfl6eYx/view?usp=sharing
+
